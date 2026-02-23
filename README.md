@@ -53,5 +53,3 @@ This project demonstrates:
 - Basic Arithmetic Logic
 
 ---
-
-## 👩‍💻 Author
