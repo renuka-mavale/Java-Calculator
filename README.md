@@ -55,5 +55,3 @@ This project demonstrates:
 ---
 
 ## 👩‍💻 Author
-
-R
