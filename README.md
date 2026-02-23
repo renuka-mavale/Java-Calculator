@@ -52,9 +52,3 @@ Java-Calculator
 
 &nbsp;  java cal.Calculator
 
-
-
-\## Author
-
-Renuka Mavale
-
