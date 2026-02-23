@@ -1,54 +1,59 @@
-\# Java Calculator (Menu Driven)
+# 🧮 Java Calculator (Menu Driven)
 
+A simple **menu-driven calculator** built using Java.  
+This console application allows users to perform basic arithmetic operations interactively.
 
+---
 
-Simple menu-driven calculator program written in Java.
+## ✨ Features
 
+✔ Addition  
+✔ Subtraction  
+✔ Multiplication  
+✔ Division  
+✔ Modulus  
+✔ User-friendly Menu System  
 
+---
 
-\## Features
+## 🛠 Technologies Used
 
-\- Addition
+- Java
+- Scanner Class
 
-\- Subtraction
+---
 
-\- Multiplication
+## 📂 Project Structure
 
-\- Division
+Java-Calculator  
+└── cal  
+    └── Calculator.java  
 
-\- Modulus
+---
 
+## ▶ How to Run
 
+**Compile**
 
-\## Technologies Used
+javac cal/Calculator.java
 
-\- Java
+**Run**
 
-\- Scanner Class
+java cal.Calculator
 
+---
 
+## 🎯 Learning Outcome
 
-\## Project Structure
+This project demonstrates:
 
-Java-Calculator
+- Control Statements (switch-case)
+- Loops (do-while)
+- User Input Handling
+- Basic Arithmetic Logic
 
-&nbsp;└── cal
+---
 
-&nbsp;     └── Calculator.java
+## 👩‍💻 Author
 
-
-
-\## How to Run
-
-
-
-1\. Compile:
-
-&nbsp;  javac cal/Calculator.java
-
-
-
-2\. Run:
-
-&nbsp;  java cal.Calculator
-
+R
